@@ -56,14 +56,17 @@ endmodule
 ```
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![image](https://github.com/JIDHESHP/ENCODER8TO3DATAFLOW/assets/160458978/4b6d7058-07a4-4c42-ba1c-ab45d7e05598)
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+
 ![image](https://github.com/JIDHESHP/ENCODER8TO3DATAFLOW/assets/160458978/953d445a-77b1-4fc5-b2ef-e163ff814717)
 
 
 **RESULTS**
+
 Therefore the code has been successfully executed.
 
 
